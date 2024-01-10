@@ -1,8 +1,8 @@
 # konteks-ai.github.io
 Konteks.ai website
 
-Low Code with BPMN
-AI Augmented Prompt Generator
-Code Generation to Python and Rust
-Hybrid Based Tools (Desktop and Web) 
-Open Source Project (MIT License)
+<p> Low Code with BPMN </p>
+<p>AI Augmented Prompt Generator</p>
+<p>Code Generation to Python and Rust</p>
+<p>Hybrid Based Tools (Desktop and Web)</p>
+<p>Open Source Project (MIT License)</p>
